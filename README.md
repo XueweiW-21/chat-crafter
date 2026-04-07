@@ -73,12 +73,12 @@ Inspiration strikes at midnight on your phone. Chat Crafter is a lightweight web
 ## Real Users, Real Stories
 
 Chat Crafter isn't a portfolio toy — writers are using it to publish real works.
+---- last update: April 6, 2026
 
-<!-- Replace with your actual Rednote post screenshot showing likes/saves -->
-![Rednote Post](assets/rednote-post.png)
+![Rednote Post](assets/rednote-post.jpg)
 
 <!-- Add more examples as you collect them -->
-<!-- ![User Work Example](assets/user-work-1.png) -->
+
 
 ---
 
